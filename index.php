@@ -102,17 +102,31 @@ error_reporting(1);
 	if($chk=="")
 	{
 	?>
-	<h3 align="center">Welcome to My mail server..........</h3>
-	<pre>
+	<h2 align="center"><u>AnuMail, It is better to give than to receive.</u></h2>
 	
-About My mail server - email from Google
+	<br>
+<h4><u>Anumail Features:</u></h4>
 
-Video chat with a friend, or give someone a ring all from your inbox. 
-See more reasons to switch or check out our newest features. 
+<ul>
+	<li>Send, Receive or Save emails.</li>
+	<li>User's smart personal dashboard</li>
+	<li>Read or write news.</li>
 	
+</ul>
+
+		<br>	<br>
+<div align="right">
+<center><h4>Send E-mails to anywhere !</h4></center>
+<p>With AnuMail you can send messages to anybody located in any part of the world.</p>
+</div>
+
+	<br>	<br>
+<div align="left">
+<h4>Explore a medium free of charge !</h4>
+<p>No more paid texting to friends. Now enjoy sending texts to friends free of charge !</p>
+</div><br>	<br>
+<center>Built with php and love <3</center>	
 	
-	
-	</pre>
 	<?php
 	}
 	if($chk=="registraion")
@@ -144,7 +158,7 @@ See more reasons to switch or check out our newest features.
 	include_once('about.php');
 	}
 	
-	
+
 	?>	</td>
     <td width="130">
 	<marquee direction="up" behavior="alternate" onmouseover="stop()" onmouseout="start()">
