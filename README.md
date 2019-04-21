@@ -1,6 +1,10 @@
 # AnuMail
 It is a project that you can use for University, School, College or science fair. This script is not for production purposes. 
 
+### Download and watch the Video tutorial from the following link:
+
+https://github.com/faisaljubayer/AnuMail/blob/master/video-1555506347.mp4
+
 ### System Requirements
 1. WAMP Server 2.5.
 
